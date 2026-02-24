@@ -1,2 +1,2 @@
 # Estudo-Django
-Projeto de carros para estudo do django
+Projeto de carros para estudo do django do curso PycodBR
